@@ -1,0 +1,21 @@
+﻿first_name,last name,score,department,reason
+Chinedu,Okafor,85,Computer Science,missing/invalid field or score out of range
+Aisha,Bello,92,Mathematics,missing/invalid field or score out of range
+Tunde,Adeyemi,76,Engineering,missing/invalid field or score out of range
+Ifeoma,Nwankwo,,Biology,missing/invalid field or score out of range
+Sadiq,Abubakar,110,Physics,missing/invalid field or score out of range
+Blessing,Etim,68,Chemistry,missing/invalid field or score out of range
+Emeka,Obi,abc,Computer Science,missing/invalid field or score out of range
+Zainab,Usman,54,Mathematics,missing/invalid field or score out of range
+Oluwaseun,Ogunleye,73,Engineering,missing/invalid field or score out of range
+Fatima,Lawal,88,Medicine,missing/invalid field or score out of range
+Nsikak,Essien,91,Biology,missing/invalid field or score out of range
+Kabiru,Musa,-5,Physics,missing/invalid field or score out of range
+Ekaette,Bassey,79,Chemistry,missing/invalid field or score out of range
+Yakubu,Danladi,65,Engineering,missing/invalid field or score out of range
+Ngozi,Eze,82,Computer Science,missing/invalid field or score out of range
+Hauwa,Mohammed, ,Mathematics,missing/invalid field or score out of range
+Samuel,Otu,70,Biology,missing/invalid field or score out of range
+Abdulrahman,Sani,95,Physics,missing/invalid field or score out of range
+Grace,Effiong,60,Chemistry,missing/invalid field or score out of range
+Ibrahim,Sule,72,Engineering,missing/invalid field or score out of range
